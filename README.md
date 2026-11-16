@@ -14,15 +14,6 @@
 - I like projects where data meets real human behaviour: elections, sports fandoms, health signals, and next, markets.
 - 🌍 Based between Lugano 🇨🇭 and Bergamo 🇮🇹 · Italian & English
 
-### 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**Sinner vs Alcaraz on Bluesky**](https://github.com/brusati04/bluesky-sinner-alcaraz-analysis) | Crawls 9k posts from the 2025 US Open, builds the fan interaction network, and measures sentiment, emotion and fanbase polarisation | `networkx` `transformers` `spaCy` `infomap` |
-| [**CAPITOL**](https://github.com/brusati04/capitol-political-tweets-nlp) | Tells Democrat from Republican tweets: TF-IDF vs GloVe/FastText + LSTM (84% accuracy) | `scikit-learn` `TensorFlow` `gensim` |
-| [**Smoking prediction**](https://github.com/brusati04/smoking-prediction-body-signals) | Predicts smoking from health-check data with a full model-selection pipeline (ROC AUC 0.81) | `scikit-learn` `imbalanced-learn` |
-| [**Hotel review classifier**](https://github.com/brusati04/hotel-reviews-rnn-classifier) | Two-input BiLSTM that classifies hotel reviews as good or bad | `Keras` `TensorFlow` |
-| [**Cannon Game**](https://github.com/brusati04/kivy-cannon-game) | A 2D artillery game with ballistic physics, 5 levels and upgrades, built from scratch | `Python` `Kivy` |
 
 ### 🛠️ Toolbox
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
