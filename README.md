@@ -30,7 +30,7 @@
 
 ### Next...
 - Studying for the MSc in Fintech at USI
-- I woukdpplying ML to financial data (markets, risk, digital assets)
+- I would like to apply ML to financial data (markets, risk, digital assets)
 
 ### Let's keep in touch!
 Reach me through my profile and let's have a coffee.
