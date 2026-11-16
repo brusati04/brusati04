@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lorenzo 👋</h1>
+<h1 align="center">Hi, I'm Lorenzo :) </h1>
 <h3 align="center">AI engineer turned Fintech builder: teaching models to read markets, money and people.</h3>
 
 <p align="center">
@@ -8,14 +8,14 @@
 
 ---
 
-### 🧠 About me
-- I build **machine learning and NLP systems** end to end: data collection, modelling, evaluation and clear write-ups.
-- I'm now taking that toolkit into **finance**: quantitative methods, data-driven markets and the tech behind modern money.
+### About me
+- I build machine learning and NLP systems end to end: data collection, modelling, evaluation and clear write-ups.
+- I'm now taking that toolkit into finance: quantitative methods, data-driven markets and the tech behind modern money.
 - I like projects where data meets real human behaviour: elections, sports fandoms, health signals, and next, markets.
-- 🌍 Based between Lugano 🇨🇭 and Bergamo 🇮🇹 · Italian & English
+- Based between Lugano 🇨🇭 and Milan - Bergamo 🇮🇹 · Italian & English
 
 
-### 🛠️ Toolbox
+### 🛠️ Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -28,9 +28,9 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### 📈 Currently
-- 📚 Studying for the MSc in Fintech at USI
-- 🔭 Next up: applying ML to financial data (markets, risk, digital assets)
+### Next...
+- Studying for the MSc in Fintech at USI
+- I woukdpplying ML to financial data (markets, risk, digital assets)
 
-### 📫 Let's connect
-Open an issue on any repo or reach me through my profile.
+### Let's keep in touch!
+Reach me through my profile and let's have a coffee.
